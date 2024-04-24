@@ -1,5 +1,3 @@
-"use client";
-
 import { useState } from 'react';
 
 export function Cta() {
@@ -9,7 +7,6 @@ export function Cta() {
     // Add your validation logic here
     setShowAlert(true);
   };
-
   return (
     <div className="w-full rounded-lg bg-gradient-to-br from-pink-500/50 via-red-500/50 to-yellow-500/50 py-8 px-4 text-center lg:my-12 lg:px-10 lg:py-20">
       {showAlert && (

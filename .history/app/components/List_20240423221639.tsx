@@ -2,7 +2,7 @@ export function List() {
   return (
     <div className="pt-4 lg:pt-10">
     <div className="px-[20px] lg:px-[50px]">
-    <h1 className="text-center text-[32px] leading-[40px] font-medium text-[#172026] lg:text-[64px] lg:leading-[72px]">
+    <h1 className="text-center text-[32px] leading-[40px] font-medium text-[#172026] lg:text-[64px] lg:leading-[50px]">
           Lista de itens
       </h1>
     </div>

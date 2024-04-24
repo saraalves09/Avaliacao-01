@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.titulo-dia {
+    color: #333;  
+}
+  
+.lista-dia {
+    background-color: #fff; 
+    color: #333;
+}
+.titulo-noite {
+    color: #fff;
+  }
+  
+.lista-noite {
+    background-color: #333; 
+    color: #fff
+}
+  
