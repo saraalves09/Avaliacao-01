@@ -1,6 +1,5 @@
 # Avaliação de Desenvolvimento de Software Avançado
-
-Professor: Chrystian 
+ 
 ## Equipe
-    Sara Alves Vieira - RGM: 1316413 </br>
-    Ana Carolina - RGM: 1
+   **Ana Carolina Czachorowski** - RGM: 28714539 </br>
+   **Sara Alves Vieira** - RGM: 1316413
