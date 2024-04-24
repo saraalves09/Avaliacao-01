@@ -1,3 +1,4 @@
+"use client";
 // Import the necessary dependencies
 import React, { useState } from 'react';
 
